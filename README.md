@@ -32,4 +32,4 @@ Your app is ready to be deployed!
 
 
 ## Technologies used:
-# React js:
+### React js:
