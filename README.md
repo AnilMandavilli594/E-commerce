@@ -32,4 +32,13 @@ Your app is ready to be deployed!
 
 
 ## Technologies used:
-### React js:
+
+### FrontEnd(React js):
+#### Modules used-
+##### 1.React Router Dom - Used for routing between different pages.
+##### 2.React Redux - Central State management in react.
+
+### Backend:
+#### 1.Express.js - used for setting up middlewares that responds to HTTP requests
+#### 2.Mongoose - provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box.
+
